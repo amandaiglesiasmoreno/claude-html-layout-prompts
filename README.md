@@ -36,11 +36,7 @@ claude-html-layout-prompts/
 │   ├── 02-two-column-nav-detail-view.md
 │   ├── 03-fullscreen-slide-navigator.md
 │   └── 04-neo-brutalist-vertical-pager.md
-└── examples/
-    ├── 01-minimal-icon-card-grid.png
-    ├── 02-two-column-nav-detail-view.png
-    ├── 03-fullscreen-slide-navigator.png
-    └── 04-neo-brutalist-vertical-pager.png
+
 ```
 
 ---
