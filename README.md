@@ -32,10 +32,10 @@ All prompts are tested and produce **complete, single-file HTML** — no depende
 claude-html-layout-prompts/
 ├── README.md
 ├── prompts/
-│   ├── 01-minimal-icon-card-grid.md
-│   ├── 02-two-column-nav-detail-view.md
-│   ├── 03-fullscreen-slide-navigator.md
-│   └── 04-neo-brutalist-vertical-pager.md
+  ├── 01-minimal-icon-card-grid.md
+  ├── 02-two-column-nav-detail-view.md
+  ├── 03-fullscreen-slide-navigator.md
+  └── 04-neo-brutalist-vertical-pager.md
 
 ```
 
